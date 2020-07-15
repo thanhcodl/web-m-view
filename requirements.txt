@@ -1,0 +1,4 @@
+
+#django-package
+django-allauth
+django-recaptcha
